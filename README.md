@@ -33,7 +33,7 @@ The Amazon Clone is a static website that replicates the design and layout of Am
 
 ## 🌟 Demo
 
-Check out the live preview of the project [here](https://github.com/ritul-patel/Amazon-Clone).  
+Check out the live preview of the project [here](https://ritul-patel.github.io/Amazon-Clone/).  
 
 ---
 
